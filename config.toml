@@ -6,7 +6,7 @@ parallel-jobs = 1
 
 # you can use rvmm-config-gen to generate a config
 
-[YouTube Extended]
+[YouTube-Extended]
 build-mode = "both"
 arch = "both"
 patches-source = "kitadai31/revanced-patches-android6-7"
